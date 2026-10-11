@@ -1,0 +1,105 @@
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+.gray {
+    background-color: gray;
+}
+.purple {
+    background-color: purple;
+}
+.red {
+    background-color: red;
+
+.white {
+
+    background-color: white;
+}
+
+}
+.width-full {
+    width: 100%;
+}
+.height-100 {
+    height: 100px;
+}
+
+.height-300 {
+    height: 300px;
+}
+
+.height-full {
+    height: 100%;
+}
+
+.width-400 {
+    width: 400px;
+}
+.width-100 {
+    width: 100px;
+}
+
+.max-width-1000 {
+    max-width:1000px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+
+.margin-top-16 {
+    margin-top: 16px;
+}
+
+.margin-bottom-8 {
+    margin-bottom: 8px;
+
+}
+
+.margin-bottom-16 {
+
+    margin-bottom: 16px;
+}
+
+.margin-right-16 {
+
+    margin-right: 16px;
+}
+
+.padding {
+
+    padding: 8px;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+.align-content {
+
+    align-content: space-around;
+}
+
+.flex-flow {
+
+flex-flow : row wrap;
+justify-content: space-around;
+
+}
+
+.Section {
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    padding: 24px;
+    box-shadow:
+        0 4px 6px rgba(0, 0, 0, 0.04),
+        0 10px 25px rgba(0, 0, 0, 0.08);
+}
+

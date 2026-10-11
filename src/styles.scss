@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+}
+
+
+.Button {
+    background-color: gray;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+
+
+.Button:hover {
+
+    cursor: pointer;
+    background-color: yellow;
+    scale: 1.2;
+}    

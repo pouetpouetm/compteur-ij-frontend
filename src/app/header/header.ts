@@ -5,7 +5,14 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './header.html',
   styleUrl: './header.scss',
+  
 })
 export class Header {
+  afficherTaGueuleMozart():void {
+    alert("Ta gueule Mozart");
+
+  }
   
 }
+
+
