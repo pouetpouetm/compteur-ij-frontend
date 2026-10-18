@@ -2,10 +2,6 @@
   width: 300px;
 }
 
-
-
-
-
 .blue {
     background-color: blue;
 }
@@ -48,9 +44,17 @@
 .width-100 {
     width: 100px;
 }
+.width-200 {
+    width: 200px;
+}
+
 
 .max-width-1000 {
     max-width:1000px;
+}
+
+.max-width-100 {
+    max-width:100px;
 }
 
 .flex {
@@ -61,6 +65,9 @@
     flex-direction: column;
 }
 
+.justify-content-end {
+    justify-content: flex-end;
+}
 
 .margin-top-16 {
     margin-top: 16px;
