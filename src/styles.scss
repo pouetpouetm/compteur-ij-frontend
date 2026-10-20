@@ -5,6 +5,11 @@
 // custom components at https://material.angular.dev/guide/theming
 @use '@angular/material' as mat;
 
+@use "styles/colors";
+@use "styles/size";
+@use "styles/flex";
+@use "styles/views";
+
 html {
   height: 100%;
   @include mat.theme(
